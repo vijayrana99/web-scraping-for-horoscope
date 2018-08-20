@@ -4,7 +4,7 @@
 A simple example of web scraping for Horoscope from Hamropatro (https://www.hamropatro.com/rashifal)
 
 <h3>Screenshot</h3>
-![alt text](https://github.com/vijaymgr/web-scraping-for-horoscope/screenshot/horoscope.png)
+![Screenshot](screenshot.png)
 
 <h3>Usage</h3>
 1. Clone the project
